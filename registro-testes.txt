@@ -1,0 +1,20 @@
+test_T4_entradas_aceitas_e_recusadas (test_motor.CliTest.test_T4_entradas_aceitas_e_recusadas) ... ok
+test_entrada_invalida_pede_de_novo (test_motor.CliTest.test_entrada_invalida_pede_de_novo) ... ok
+test_R2_phishing_por_link_suspeito_e_urgencia (test_motor.CoberturaDasRegrasTest.test_R2_phishing_por_link_suspeito_e_urgencia) ... ok
+test_R5_acao_de_golpe_pix (test_motor.CoberturaDasRegrasTest.test_R5_acao_de_golpe_pix) ... ok
+test_T1_acao_por_phishing_pergunta_so_os_fatos_necessarios (test_motor.MotorTest.test_T1_acao_por_phishing_pergunta_so_os_fatos_necessarios) ... ok
+test_T2_resposta_desconhecida_nao_vira_nao (test_motor.MotorTest.test_T2_resposta_desconhecida_nao_vira_nao) ... ok
+test_T3_rastro_contem_regra_e_fatos_que_sustentam (test_motor.MotorTest.test_T3_rastro_contem_regra_e_fatos_que_sustentam) ... ok
+test_T5_ciclo_termina_e_fica_inconclusivo (test_motor.MotorTest.test_T5_ciclo_termina_e_fica_inconclusivo) ... ok
+test_T6_fato_compartilhado_e_perguntado_uma_vez (test_motor.MotorTest.test_T6_fato_compartilhado_e_perguntado_uma_vez) ... ok
+test_T7_fato_falso_refuta_sem_perguntar_o_resto_da_regra (test_motor.MotorTest.test_T7_fato_falso_refuta_sem_perguntar_o_resto_da_regra) ... ok
+test_T8_hipotese_sem_regra_e_inconclusiva_nao_refutada (test_motor.MotorTest.test_T8_hipotese_sem_regra_e_inconclusiva_nao_refutada) ... ok
+test_RQ10_toda_regra_tem_fonte_e_estado (test_motor.SeparacaoTest.test_RQ10_toda_regra_tem_fonte_e_estado) ... ok
+test_RQ1_base_tem_no_minimo_3_fatos_e_5_regras (test_motor.SeparacaoTest.test_RQ1_base_tem_no_minimo_3_fatos_e_5_regras) ... ok
+test_RQ2_motor_e_cli_nao_contem_literais_do_dominio (test_motor.SeparacaoTest.test_RQ2_motor_e_cli_nao_contem_literais_do_dominio) ... ok
+test_RQ9_so_biblioteca_padrao (test_motor.SeparacaoTest.test_RQ9_so_biblioteca_padrao) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.056s
+
+OK
